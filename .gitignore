@@ -1,0 +1,26 @@
+uploads/
+# Node.js
+node_modules/
+.env
+
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# Build directories
+dist/
+build/
+out/
+tmp/
+logs/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
